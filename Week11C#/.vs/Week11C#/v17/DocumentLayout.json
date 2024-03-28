@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Week11C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C682A2-866B-4334-A569-66CFDA63D865}|Week11C#\\Week11C#.EF.csproj|c:\\users\\hp\\source\\repos\\week11c#\\week11c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C682A2-866B-4334-A569-66CFDA63D865}|Week11C#\\Week11C#.EF.csproj|solutionrelative:week11c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C682A2-866B-4334-A569-66CFDA63D865}|Week11C#\\Week11C#.EF.csproj|C:\\Users\\HP\\source\\repos\\Week11C#\\Week11C#\\Models\\Entities\\MMABooksContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C682A2-866B-4334-A569-66CFDA63D865}|Week11C#\\Week11C#.EF.csproj|solutionrelative:Week11C#\\Models\\Entities\\MMABooksContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week11C#\\Week11C#\\Program.cs",
+              "RelativeDocumentMoniker": "Week11C#\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week11C#\\Week11C#\\Program.cs",
+              "RelativeToolTip": "Week11C#\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:51:44.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MMABooksContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week11C#\\Week11C#\\Models\\Entities\\MMABooksContext.cs",
+              "RelativeDocumentMoniker": "Week11C#\\Models\\Entities\\MMABooksContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week11C#\\Week11C#\\Models\\Entities\\MMABooksContext.cs",
+              "RelativeToolTip": "Week11C#\\Models\\Entities\\MMABooksContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:20:26.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
